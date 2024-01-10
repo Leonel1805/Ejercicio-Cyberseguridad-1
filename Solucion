@@ -1,0 +1,7 @@
+Hola a todos. Para solucionar este ejercicio, lo que hice fue usar el siguiente comando:
+
+md5sum [nombre del archivo a analizar]
+
+De esa manera, pude visualizar el MD5 de cada uno de los archivos ubicados en "PyJ Systems" y compararlos con los MD5 surgidos del Readme. De esa manera, pude comprobar que el archivo que fue modificado es el log.txt.
+
+Muchas gracias!
