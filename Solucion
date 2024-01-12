@@ -2,6 +2,7 @@ Hola a todos. Para solucionar este ejercicio, lo que hice fue usar el siguiente 
 
 md5sum [nombre del archivo a analizar]
 
-De esa manera, pude visualizar el MD5 de cada uno de los archivos ubicados en "PyJ Systems" y compararlos con los MD5 surgidos del Readme. De esa manera, pude comprobar que el archivo que fue modificado es el log.txt.
+De esa manera, pude visualizar el MD5 de cada uno de los archivos ubicados en "PyJ Systems" y compararlos con los MD5 surgidos del Readme. De esa manera, pude comprobar que el archivo que fue modificado es el log.txt. Para automaziar el analisis, procedi a crear un simple scritp que realiza la comparacion del MD5 de cada archivo con los hash MD5 previamente aportados.
 
-Muchas gracias!
+
+Muchas gracias por leer, saludos.
